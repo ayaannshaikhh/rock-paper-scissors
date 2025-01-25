@@ -23,17 +23,19 @@ A simple Python implementation of the classic Rock, Paper, Scissors game where t
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the script.
 3. Run the script using the command:
+
    ```bash
    python3 main.py
     ```
 ## Example
-    ```bash
-    Rock paper scissors! Play against your computer!
-    Enter your choice (rock, paper, scissors): rock
-    User picked: rock
-    Computer picked: scissors
-    User wins!
-    ```
+```
+Rock paper scissors! Play against your computer!
+Enter your choice (rock, paper, scissors): rock
+User picked: rock
+Computer picked: scissors
+User wins!
+```
+
 ## Features
 - Input validation to ensure the user enters a valid choice.
 - Random choice generation for the computer.
